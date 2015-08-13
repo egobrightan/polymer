@@ -1,18 +1,18 @@
 [
   {
     "uid": 1,
-    "firstname" : "Sandesh",
-    "lastname" : "Damkondwar",
-    "phone" : "+11234567890",
+    "firstname" : "Aung",
+    "lastname" : "Kyaw",
+    "phone" : "+959797651330",
     "email": "dummy@gmail.com",
     "avatar" : "images/avatar-01.svg",
     "favorite": false
   },
   {
     "uid": 2,
-    "firstname" : "Paul",
-    "lastname" : "Irish",
-    "phone" : "+11234567890",
+    "firstname" : "Kyaw ",
+    "lastname" : "Ko",
+    "phone" : "+959250201533",
     "email": "dummy@gmail.com",
     "avatar" : "images/avatar-02.svg",
     "favorite": false
